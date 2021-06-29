@@ -7,7 +7,7 @@ Personal zsh config file
 - cowsay
 - fortune
 - lolcat
-- ### ional
+- ### Optional
 - cmatrix
 - sl
 - neofetch
